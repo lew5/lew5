@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](/github-header-image-name.png)
+![Header](./github-header-image.png)
 <!--
 **lew5/lew5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
